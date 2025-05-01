@@ -1,57 +1,47 @@
-# 💻 Olá, pessoal! Eu sou Jhonatan Thiago. Aqui estão as principais tecnologias que utilizamos e com as quais tenho experiência prática em projetos.
+<h1 align="center">👋 Hello! I'm Jhonatan Thiago</h1>
 
-## 🚀 Linguagens de Programação
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-</p>
-
-## 🌐 Desenvolvimento Web
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
-</p>
-
-## 🧠 Machine Learning / IA
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter Notebook"/>
-</p>
-
-## 🗄️ Banco de Dados
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" title="SQLite"/>
-</p>
-
-## 🔧 Ferramentas e IDEs
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
-</p>
-
-## 🔌 Microcontroladores e IoT
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino"/>
+<p align="center">
+  🎓 Bachelor's degree student in Information Technology at <strong>UFRN</strong> <br>
+  💻 Developer in progress <br>
+  🌐 Exploring the world of Front-end, Back-end, and Artificial Intelligence
 </p>
 
 ---
 
-## 🧠 Mais Utilizadas
-As tecnologias que mais uso atualmente em projetos são:
-- **Python** 🐍 (IA, automações e scripts)
-- **React** ⚛️ (Web front-end moderno)
-- **HTML/CSS/JavaScript** 🌐 (Fundamentos da Web)
-- **C** 🔧 (Projetos acadêmicos e baixo nível)
-- **Arduino + ESP32** 📡 (Projetos com sensores e automações)
+## 🚀 Technologies I Use
+
+| 🛠 Language / Tool       | 💬 Description                         | 🚀 Level |
+|-------------------------|---------------------------------------|----------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Scripting, automation, machine learning | ⭐⭐⭐ |
+| ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | Core programming, logic, microcontrollers | ⭐⭐⭐ |
+| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white) | Data structures and algorithms | ⭐⭐ |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Web interactions and functionality | ⭐⭐⭐ |
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | Building modern web apps | ⭐⭐⭐ |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | Servers and APIs | ⭐⭐ |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | Web page structure | ⭐⭐⭐ |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | Styling and responsiveness | ⭐⭐⭐ |
+
+---
+
+## 🧩 Some of My Projects
+
+- 🎯 **Elderly Monitoring with Ultrasonic Sensor**
+- 🍕 **Pizza Price Prediction with Machine Learning**
+- 📋 **Responsive Blog with Bootstrap and JS**
+- 🧾 **EAN-8 Barcode Generation and Extraction**
+- 💳 **Client Score Analysis with ML**
+- 🤖 **Task Automation with Python**
+- 💬 **HashZap - Live Chat with Flet**
+
+---
+
+## 📫 Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:thiago.pereira.087@ufrn.edu.br) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/jhonatanthiago)
+[![Lattes](https://img.shields.io/badge/Lattes-007ACC?logo=academia&logoColor=white)](http://lattes.cnpq.br/2938394897999447) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatanthiago/)
+
+---
+
+### ✨ Thanks for visiting my profile!
