@@ -13,8 +13,8 @@
 | 🛠 Language / Tool       | 💬 Description                         | 🚀 Level |
 |-------------------------|---------------------------------------|----------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Scripting, automation, machine learning | ⭐⭐⭐ |
-| ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | Core programming, logic, microcontrollers | ⭐⭐⭐ |
-| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white) | Data structures and algorithms | ⭐⭐ |
+| ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | Data structures and algorithms | ⭐⭐ |
+| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white) | Core programming, logic, microcontrollers | ⭐⭐⭐ |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Web interactions and functionality | ⭐⭐⭐ |
 | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | Building modern web apps | ⭐⭐⭐ |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | Servers and APIs | ⭐⭐ |
