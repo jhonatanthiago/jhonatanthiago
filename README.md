@@ -44,4 +44,11 @@
 
 ---
 
+🎮 In my free time, I create fun gameplay videos just for entertainment.  
+Feel free to check out my YouTube channel:  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@bellonthi)
+
+
+---
+
 ### ✨ Thanks for visiting my profile!
