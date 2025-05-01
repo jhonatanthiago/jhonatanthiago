@@ -44,8 +44,9 @@
 
 ---
 
-🎮 In my free time, I create fun gameplay videos just for entertainment.  
-Feel free to check out my YouTube channel:  
+🎮 In my free time, I create gameplay videos just for fun.  
+🎬 I'm fully responsible for my channel — I record, edit the videos, and design all the thumbnails myself.  
+📺 Check out my YouTube channel:  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@bellonthi)
 
 
