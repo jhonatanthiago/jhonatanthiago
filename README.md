@@ -20,6 +20,7 @@
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | Servers and APIs | ⭐⭐ |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | Web page structure | ⭐⭐⭐ |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | Styling and responsiveness | ⭐⭐⭐ |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) | General-purpose programming, OOP | ⭐ |
 
 ---
 
