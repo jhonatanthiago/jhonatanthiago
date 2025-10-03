@@ -14,13 +14,13 @@
 |-------------------------|---------------------------------------|----------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Scripting, automation, machine learning | ⭐⭐⭐ |
 | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | Data structures and algorithms | ⭐⭐ |
-| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white) | Core programming, logic, microcontrollers | ⭐⭐⭐ |
+| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white) | Core programming, logic, microcontrollers | ⭐⭐⭐⭐ |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Web interactions and functionality | ⭐⭐⭐ |
 | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | Building modern web apps | ⭐⭐⭐ |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | Servers and APIs | ⭐⭐ |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | Web page structure | ⭐⭐⭐ |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | Styling and responsiveness | ⭐⭐⭐ |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) | General-purpose programming, OOP | ⭐ |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) | General-purpose programming, OOP | ⭐⭐⭐ |
 
 ---
 
